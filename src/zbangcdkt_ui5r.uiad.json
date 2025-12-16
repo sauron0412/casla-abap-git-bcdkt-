@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Báo cáo tình hình tài chính"
+  },
+  "ui5AppDetails": {
+    "appId": "bcdkt"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_E9D8687DEA66F372F31F513ECAFEDDA93F6BA2F4_TM",
+    "semanticObject": "bcdkt",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_E9D8687DEA66F372F31F513ECAFEDDA93F6BA2F4_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Báo cáo tình hình tài chính"
+      }
+    }
+  ]
+}
